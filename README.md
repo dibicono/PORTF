@@ -48,15 +48,7 @@ Puedes contactarme a través de:
 
 
 
-
-
-
-
-
-
-
 <<<<<<< HEAD
-
 =======
 # PORTF
 PROY
